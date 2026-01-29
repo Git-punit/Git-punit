@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AcademiaBot](https://github.com/Git-punit/AcademiaBot)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Git-punit/PORTFOLIO](https://github.com/Git-punit/PORTFOLIO)
+- 👨‍💻 All of my projects are available at [https://github.com/Git-punit/PUNIT_PORTFOLIO](https://github.com/Git-punit/PUNIT_PORTFOLIO)
 
 - 📫 How to reach me **workwithpunit247@gmail.com**
 
